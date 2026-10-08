@@ -1,0 +1,9 @@
+Starting Python ...
+Collecting flask
+  Downloading https://files.pythonhosted.org/packages/26/00/35d85dcce6c57fdc871f3867d465d780f302a175ea360f62533f12b27e2b/flask-3.1.3.tar.gz (759kB)
+    Complete output from command python setup.py egg_info:
+    Traceback (most recent call last):
+      File "<string>", line 1, in <module>
+    IOError: [Errno 2] No such file or directory: 'c:\\users\\student\\appdata\\local\\temp\\pip-build-dmuiog\\flask\\setup.py'
+    
+    ----------------------------------------
